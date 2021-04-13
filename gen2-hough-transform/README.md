@@ -8,7 +8,7 @@ This example demonstrates how to run Hough Transform Circles and Lines using Gen
 ![hough](https://user-images.githubusercontent.com/67831664/114593829-2ab7e400-9caa-11eb-8ba9-bf4256638a3b.jpg)
 
 ### Hough Transform Circles - (Uses more computation)
-> Here, there are many false negatvives, so make sure image has only those circular objects required -
+> Here, there are many false positives, so make sure image has only those circular objects required -
 ![Hough](https://user-images.githubusercontent.com/67831664/114595124-a9f9e780-9cab-11eb-8056-a536ad3699ed.jpg)
 
 
