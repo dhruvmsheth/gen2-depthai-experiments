@@ -1,6 +1,5 @@
 # Community version of Gen2 DepthAI Experiments
-Examplar experiments running Gen2 API, DepthAI on OAK-D. Alteration of existing examples, running models in sync
- Install depthai version for gen2 pipeline -
+Examplar experiments running Gen2 API, DepthAI on OAK-D. Alteration of existing examples, running models in sync.
 
 Use the Online blob converter to convert OpenVINO to Blob - http://69.164.214.171:8084/
 ## This repository showcases extended support for OpenCV functionalities on OAK-D
