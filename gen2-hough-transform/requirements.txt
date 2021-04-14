@@ -1,0 +1,5 @@
+
+opencv-python
+imutils
+depthai==2.1.0.0
+numpy
