@@ -1,4 +1,4 @@
-### Corner Detection using Harris Filtering on OAK-D
+### Host side Corner Detection using Harris Filtering on OAK-D
 
 ![2021-04-10-194523_848x480_scrot](https://user-images.githubusercontent.com/67831664/114272918-aa894880-9a35-11eb-92c6-a51af9246ab9.png)
 
